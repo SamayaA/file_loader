@@ -10,3 +10,5 @@ uploaded_at - DateTimeField
 processed - BooleanField  
 
 
+GET method - http://78.24.222.126/api/v1/files/  
+POST method - http://78.24.222.126/api/v1/upload/  

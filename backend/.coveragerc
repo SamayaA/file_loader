@@ -1,0 +1,2 @@
+[run]
+omit=tests/*,manage.py,.venv/*,backend/*,test_courses_api.py,file_loader\migrations\*
